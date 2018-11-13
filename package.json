@@ -1,0 +1,25 @@
+{
+  "name": "face-api-helloworld",
+  "version": "1.0.0",
+  "description": "Playing around with face-api.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlambrecht/face-api-helloworld.git"
+  },
+  "keywords": [
+    "face-api"
+  ],
+  "author": "rlambrecht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlambrecht/face-api-helloworld/issues"
+  },
+  "homepage": "https://github.com/rlambrecht/face-api-helloworld#readme",
+  "dependencies": {
+    "face-api.js": "^0.16.0"
+  }
+}
